@@ -1,2 +1,2 @@
-# mcp-nf-core
-Unofficial MCP server for nf-core tools.
+# Setup
+Experimental repo to test MCP capabilities with nf-core tools functions.
