@@ -2,7 +2,7 @@ import subprocess
 from mcp.server.fastmcp import FastMCP
 
 # Initialize the server
-mcp = FastMCP("nf-core-mcp")
+mcp = FastMCP("nf-core-mcp-cli")
 
 @mcp.tool()
 def list_remote_modules() -> str:
